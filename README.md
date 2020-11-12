@@ -25,4 +25,5 @@ are available at [the wiki](https://github.com/dylnb/LambdaCalculator/wiki).
 ## The purpose of this Repo
 
 This repo is intended to house all of the Issues related to the Lambda Calculator,
-so that we may keep the source code of the project private. If 
+so that we may keep the source code of the project private. If you have an issue to
+submit, please submit it using this repo.
