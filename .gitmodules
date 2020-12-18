@@ -1,0 +1,3 @@
+[submodule "LambdaCalculator.wiki"]
+	path = LambdaCalculator.wiki
+	url = ./LambdaCalculator.wiki
